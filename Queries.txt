@@ -1,0 +1,14 @@
+
+
+ create table actor(actor_id int primary key,actor_name char(20),actor_gender char(10));
+
+
+create table director(director_id int primary key,director_name char(20),phone_number varchar(10));
+
+create table movies(movie_id int primary key,movie_title char(20),movie_year number(4) check(movie_year<=2024),movie_language char(20),director_id number(5),foreign key(director_id) references director(director_id) on delete cascade);
+
+create table moviecast(actor_id int,movie_id int,role char(20),foreign key(actor_id) references actor(actor_id) on delete cascade,foreign key(movie_id) references movies(movie_id) on delete cascade);
+
+create table rating(movie_id int,rev_stars int check(rev_stars>=1 and rev_stars<=10), foreign key(movie_id) references movies(movie_id) on delete set cascade);
+
+create table generes(movie_id int, generes varchar(20), foreign key(movie_id) references movies(movie_id) on delete set cascade);
