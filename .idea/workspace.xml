@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="employee_management_system:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e895f258-1b91-4882-9eeb-7df18c8eecd0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ca0jGIlELL6Ye5EKvO8b8gg2hz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Add.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_calss.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Remove.executor&quot;: &quot;Run&quot;,
+    &quot;Application.addactor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.adddirector.executor&quot;: &quot;Run&quot;,
+    &quot;Application.addgeneres.executor&quot;: &quot;Run&quot;,
+    &quot;Application.addmoviecast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.addmovies.executor&quot;: &quot;Run&quot;,
+    &quot;Application.addrating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeactor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removedirector.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removegeneres.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removemoviecast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removemovies (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.removemovies.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removerating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.signup.executor&quot;: &quot;Run&quot;,
+    &quot;Application.splash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.view.executor&quot;: &quot;Run&quot;,
+    &quot;Application.viewactor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.viewdirector.executor&quot;: &quot;Run&quot;,
+    &quot;Application.viewgeneres.executor&quot;: &quot;Run&quot;,
+    &quot;Application.viewmoviecast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.viewmovies.executor&quot;: &quot;Run&quot;,
+    &quot;Application.viewrating.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;1&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/narasimhaiah/IdeaProjects/employee_management_system/jar files/mysql-connector-j-8.3.0.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/narasimhaiah/IdeaProjects/employee_management_system/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.signup">
+    <configuration name="Remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.Remove" />
+      <module name="employee_management_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.removeactor" />
+      <module name="employee_management_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.signup" />
+      <module name="employee_management_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="view" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.view" />
+      <module name="employee_management_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="viewactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.viewactor" />
+      <module name="employee_management_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employee.management.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.signup" />
+        <item itemvalue="Application.removeactor" />
+        <item itemvalue="Application.Remove" />
+        <item itemvalue="Application.viewactor" />
+        <item itemvalue="Application.view" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e895f258-1b91-4882-9eeb-7df18c8eecd0" name="Changes" comment="" />
+      <created>1708334528307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708334528307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/employee_management_system$splash.ic" NAME="splash Coverage Results" MODIFIED="1708336105734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>employee.management.system.*</FILTER>
+    </SUITE>
+  </component>
+</project>
